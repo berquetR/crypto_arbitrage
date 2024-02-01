@@ -30,8 +30,6 @@ For the complete analysis, additional data for the SOL/USDT and BTC/SOL pairs fr
 
 ## Getting Started
 
-To use these notebooks, clone the repository and install the required dependencies listed in `requirements.txt`.
-
 ```bash
 git clone https://github.com/your-username/crypto_arbitrage.git
 cd crypto_arbitrage
