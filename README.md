@@ -1,6 +1,6 @@
 # Crypto Arbitrage Analysis
 
-This repository contains a collection of Jupyter notebooks and Python scripts designed to analyze arbitrage opportunities in cryptocurrency markets across different exchanges for the SOL/USDT pair. 
+This repository contains a collection of Jupyter notebooks and Python scripts designed to analyze arbitrage opportunities in cryptocurrency markets across different exchanges.
 
 ## Notebooks
 
@@ -24,6 +24,10 @@ This repository contains a collection of Jupyter notebooks and Python scripts de
 
 - `triangular_arbitrage.ipynb`: This notebook calculates opportunities for triangular arbitrage within the cryptocurrency markets, focusing on Bitcoin and Solana across various exchanges.
 
+## Data Requirements
+
+For the complete analysis, additional data for the SOL/USDT and BTC/SOL pairs from Binance, as well as SOL/USDT data from Bybit, should be downloaded directly from the respective exchange websites.
+
 ## Getting Started
 
 To use these notebooks, clone the repository and install the required dependencies listed in `requirements.txt`.
@@ -32,3 +36,4 @@ To use these notebooks, clone the repository and install the required dependenci
 git clone https://github.com/your-username/crypto_arbitrage.git
 cd crypto_arbitrage
 pip install -r requirements.txt
+
