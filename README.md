@@ -1,8 +1,6 @@
-# crypto_arbitrage
-
 # Crypto Arbitrage Analysis
 
-This repository contains a collection of Jupyter notebooks and Python scripts designed to analyze arbitrage opportunities in cryptocurrency markets across different exchanges.
+This repository contains a collection of Jupyter notebooks and Python scripts designed to analyze arbitrage opportunities in cryptocurrency markets across different exchanges for the SOL/USDT pair. 
 
 ## Notebooks
 
